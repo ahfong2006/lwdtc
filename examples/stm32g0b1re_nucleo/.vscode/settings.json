@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "lwdtc.h": "c",
+        "lwdtc_opt.h": "c"
+    }
+}

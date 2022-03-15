@@ -1,6 +1,6 @@
 /**
- * \file            lwdtc.h
- * \brief           LwDTC main file
+ * \file            lwdtc_opts_template.h
+ * \brief           LwDTC configuration file
  */
 
 /*
@@ -31,13 +31,14 @@
  * Author:          Tilen MAJERLE <tilen@majerle.eu>
  * Version:         $_version_$
  */
-#ifndef LWDTC_HDR_H
-#define LWDTC_HDR_H
+#ifndef LWDTC_HDR_OPTS_H
+#define LWDTC_HDR_OPTS_H
 
+/* Rename this file to "lwdtc_opts.h" for your application */
 
+/*
+ * Open "include/lwdtc/lwdtc_opt.h" and
+ * copy & replace here settings you want to change values
+ */
 
-#ifdef __cplusplus
-}
-#endif /* __cplusplus */
-
-#endif /* LWDTC_HDR_H */
+#endif /* LWDTC_HDR_OPTS_H */
